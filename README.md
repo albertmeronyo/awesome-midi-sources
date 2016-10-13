@@ -14,7 +14,7 @@ A list of sites with MIDI files on the Web.
 
 ## MIDI-LD stats
 
-On the reddit dump
+On the reddit dump ([full list](midi_list.txt))
 - 119,502 MIDI files
 - 113,565 nquad files (95.03% over the total, 4.96% failure rate)
 - 4,911,643,092 triples

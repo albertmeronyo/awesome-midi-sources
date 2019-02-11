@@ -1,6 +1,6 @@
-# MIDI Sources on the Web
+# Awesome MIDI Sources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A list of sites with MIDI files on the Web.
+A curated list of sites with MIDI files on the Web.
 
 - http://midi-files-for-free.biz/ Large collection of pop-rock MIDI files
 - http://www.midiworld.com/ Likewise. Downloadable by appending /download/ID

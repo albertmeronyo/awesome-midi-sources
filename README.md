@@ -15,6 +15,7 @@ A curated list of sites with MIDI files on the Web.
 ## Aggregated collections
 - https://www.reddit.com/r/WeAreTheMusicMakers/comments/3ajwe4/the_largest_midi_collection_on_the_internet/ The largest MIDI collection on the Internet
 - The MIDI Archive: http://archive.cs.uu.nl/pub/MIDI/ MIDI and other electronic music stuff (with link to other MIDI sites)
+- [Composers Offering MIDI Files on the Net](http://aitech.ac.jp/~ckelly/SMF.html) Links to Sites Maintained by Professional and Amateur Composers
 
 ## Pop-rock
 - http://midi-files-for-free.biz/ Large collection of pop-rock MIDI files

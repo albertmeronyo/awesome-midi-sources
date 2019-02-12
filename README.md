@@ -13,19 +13,21 @@ A curated list of sites with MIDI files on the Web.
 - [Miscellaneous](#miscellaneous)
 
 ## Aggregated collections
-- https://www.reddit.com/r/WeAreTheMusicMakers/comments/3ajwe4/the_largest_midi_collection_on_the_internet/ The largest MIDI collection on the Internet
-- The MIDI Archive: http://archive.cs.uu.nl/pub/MIDI/ MIDI and other electronic music stuff (with link to other MIDI sites)
-- [Composers Offering MIDI Files on the Net](http://aitech.ac.jp/~ckelly/SMF.html) Links to Sites Maintained by Professional and Amateur Composers
+- [The Largest MIDI Collection on the Internet](https://www.reddit.com/r/WeAreTheMusicMakers/comments/3ajwe4/the_largest_midi_collection_on_the_internet/), collected and sorted by [u/midi_man](https://www.reddit.com/user/midi_man)
+- [The MIDI Archive](http://archive.cs.uu.nl/pub/MIDI/), archive of the [Utrecht University](https://www.uu.nl)
+- [Composers Offering MIDI Files on the Net](http://aitech.ac.jp/~ckelly/SMF.html): Links to Sites Maintained by Professional and Amateur Composers
 
 ## Pop-rock
-- http://midi-files-for-free.biz/ Large collection of pop-rock MIDI files
-- http://www.midiworld.com/ Likewise. Downloadable by appending /download/ID
-- https://freemidi.org Likewise
+- [MIDIWORLD](http://www.midiworld.com/) Files downloadable by URL appending ``/download/ID``
+- [FreeMidi](https://freemidi.org)
+
+[comment]: <> (http://midi-files-for-free.biz/ Large collection of pop-rock MIDI files <-- Seems down)
+
 
 ## Classical
 - http://www.jsbach.net/midi/ Works by J.S. Bach
-- MuseData: http://musedata.org/ Library of classical music scores (MIDI, MuseData, Humdrum)
-- The Josquin Research Project: http://josquin.stanford.edu/ Complete score of polyphonic music from ~1420-1520 (MIDI, Humdrum, MuseData, MusicXML, MEI, ...)
+- [MuseData](http://musedata.org/) Library of classical music scores (MIDI, MuseData, Humdrum)
+- [The Josquin Research Project](http://josquin.stanford.edu/) Complete score of polyphonic music from ~1420-1520 (MIDI, Humdrum, MuseData, MusicXML, MEI, ...)
 - J. S. Bach MIDI Page: http://bachcentral.com/ Dedicated to J. S. Bach (MIDI)
 
 ## Videogames

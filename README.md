@@ -25,21 +25,22 @@ A curated list of sites with MIDI files on the Web.
 
 
 ## Classical
-- http://www.jsbach.net/midi/ Works by J.S. Bach
+- [Dave's J.S. Bach Page](http://www.jsbach.net/midi/)
 - [MuseData](http://musedata.org/) Library of classical music scores (MIDI, MuseData, Humdrum)
 - [The Josquin Research Project](http://josquin.stanford.edu/) Complete score of polyphonic music from ~1420-1520 (MIDI, Humdrum, MuseData, MusicXML, MEI, ...)
-- J. S. Bach MIDI Page: http://bachcentral.com/ Dedicated to J. S. Bach (MIDI)
+- [A Johann Sebastian Bach Midi Page](http://bachcentral.com/)
 
 ## Videogames
-- http://www.vgmusic.com/ MIDI files from videogames
-- http://scummbar.com/ Monkey Island MIDIs
+- [Video Game Music Archive](http://www.vgmusic.com/)
+- [SCUMM Bar](http://scummbar.com/) Contains Monkey Island MIDIs
 
 ## Stems
-- https://www.reddit.com/r/SongStems/comments/1vqwj2/i_got_more_stems_than_ive_got_gray_hairs_and/ Song stems
-- https://www.reddit.com/r/SongStems/comments/17eiwr/hey_guys_i_finally_got_my_16ish_gig_stem/ Song stems
+
+[comment]: <> (https://www.reddit.com/r/SongStems/comments/1vqwj2/i_got_more_stems_than_ive_got_gray_hairs_and/ Song stems -- apparently banned on Reddit)
+[comment]: <> (https://www.reddit.com/r/SongStems/comments/17eiwr/hey_guys_i_finally_got_my_16ish_gig_stem/ Song stems -- apparently banned on Reddit)
 
 ## Drums
-- https://www.reddit.com/r/WeAreTheMusicMakers/comments/3anwu8/the_drum_percussion_midi_archive_800k/ Drump percussion MIDI archive
+- [The Drum Percussion Midi Archive (800k)](https://www.reddit.com/r/WeAreTheMusicMakers/comments/3anwu8/the_drum_percussion_midi_archive_800k/)
 
 ## Miscellaneous
 - Find a way to export all Guitar Pro files in MySongBook to MIDI <-- nicely sorted collection

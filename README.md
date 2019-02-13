@@ -8,7 +8,6 @@ A curated list of sites with MIDI files on the Web.
 - [Pop-rock](#pop-rock)
 - [Classical](#classical)
 - [Videogames](#videogames)
-- [Stems](#stems)
 - [Drums](#drums)
 - [Miscellaneous](#miscellaneous)
 
@@ -21,8 +20,6 @@ A curated list of sites with MIDI files on the Web.
 - [MIDIWORLD](http://www.midiworld.com/) Files downloadable by URL appending ``/download/ID``
 - [FreeMidi](https://freemidi.org)
 
-[comment]: <> (http://midi-files-for-free.biz/ Large collection of pop-rock MIDI files <-- Seems down)
-
 
 ## Classical
 - [Dave's J.S. Bach Page](http://www.jsbach.net/midi/)
@@ -33,11 +30,6 @@ A curated list of sites with MIDI files on the Web.
 ## Videogames
 - [Video Game Music Archive](http://www.vgmusic.com/)
 - [SCUMM Bar](http://scummbar.com/) Contains Monkey Island MIDIs
-
-## Stems
-
-[comment]: <> (https://www.reddit.com/r/SongStems/comments/1vqwj2/i_got_more_stems_than_ive_got_gray_hairs_and/ Song stems -- apparently banned on Reddit)
-[comment]: <> (https://www.reddit.com/r/SongStems/comments/17eiwr/hey_guys_i_finally_got_my_16ish_gig_stem/ Song stems -- apparently banned on Reddit)
 
 ## Drums
 - [The Drum Percussion Midi Archive (800k)](https://www.reddit.com/r/WeAreTheMusicMakers/comments/3anwu8/the_drum_percussion_midi_archive_800k/)

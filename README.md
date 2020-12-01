@@ -39,6 +39,5 @@ A curated list of sites with MIDI files on the Web.
 ## Drums
 - [The Drum Percussion Midi Archive (800k)](https://www.reddit.com/r/WeAreTheMusicMakers/comments/3anwu8/the_drum_percussion_midi_archive_800k/)
 
-
 ## Miscellaneous
 - Find a way to export all Guitar Pro files in MySongBook to MIDI <-- nicely sorted collection

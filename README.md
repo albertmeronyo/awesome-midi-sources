@@ -7,6 +7,7 @@ A curated list of sites with MIDI files on the Web.
 - [Aggregated collections](#aggregated-collections)
 - [Pop-rock](#pop-rock)
 - [Classical](#classical)
+- [Folk music](#folk-music)
 - [Videogames](#videogames)
 - [Drums](#drums)
 - [Miscellaneous](#miscellaneous)
@@ -28,12 +29,16 @@ A curated list of sites with MIDI files on the Web.
 - [The Josquin Research Project](http://josquin.stanford.edu/) Complete score of polyphonic music from ~1420-1520 (MIDI, Humdrum, MuseData, MusicXML, MEI, ...)
 - [A Johann Sebastian Bach Midi Page](http://bachcentral.com/)
 
+## Folk music
+ - [Midikaos](https://midikaos.mnstrl.org) ≈3k MIDI files of world music.
+
 ## Videogames
 - [Video Game Music Archive](http://www.vgmusic.com/)
 - [SCUMM Bar](http://scummbar.com/) Contains Monkey Island MIDIs
 
 ## Drums
 - [The Drum Percussion Midi Archive (800k)](https://www.reddit.com/r/WeAreTheMusicMakers/comments/3anwu8/the_drum_percussion_midi_archive_800k/)
+
 
 ## Miscellaneous
 - Find a way to export all Guitar Pro files in MySongBook to MIDI <-- nicely sorted collection

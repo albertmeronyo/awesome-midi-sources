@@ -7,6 +7,7 @@ A curated list of sites with MIDI files on the Web.
 - [Aggregated collections](#aggregated-collections)
 - [Pop-rock](#pop-rock)
 - [Classical](#classical)
+- [Folk music](#folk-music)
 - [Videogames](#videogames)
 - [Drums](#drums)
 - [Miscellaneous](#miscellaneous)
@@ -27,6 +28,9 @@ A curated list of sites with MIDI files on the Web.
 - [MuseData](http://musedata.org/) Library of classical music scores (MIDI, MuseData, Humdrum)
 - [The Josquin Research Project](http://josquin.stanford.edu/) Complete score of polyphonic music from ~1420-1520 (MIDI, Humdrum, MuseData, MusicXML, MEI, ...)
 - [A Johann Sebastian Bach Midi Page](http://bachcentral.com/)
+
+## Folk music
+ - [Midikaos](https://midikaos.mnstrl.org) ≈3k MIDI files of world music.
 
 ## Videogames
 - [Video Game Music Archive](http://www.vgmusic.com/)
